@@ -1,6 +1,5 @@
 # Email System: Server and Client
 
-![Project Logo or Screenshot](url_to_image)
 
 ## Overview
 
